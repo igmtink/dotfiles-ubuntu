@@ -37,7 +37,7 @@ Follow the installation instructions on the Rustup website: [Rustup](https://rus
 5. **Alacritty:**
 Follow the manual installation steps on the Alacritty website: [Alacritty](https://github.com/alacritty/alacritty/blob/master/INSTALL.md#prerequisites)
 
-6. **Fish**
+6. **Fish:**
 - Add the Fish repository:
 ```bash
 sudo apt-add-repository ppa:fish-shell/release-3
