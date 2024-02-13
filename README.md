@@ -8,7 +8,7 @@
 - **Alacritty:** Terminal emulator with advanced customization options.
 - **Fish:** User-firendly and interactive shell with a modern command-line experience.
 
-## Installation
+### Installation
 1. **Git:**
 Use the following command to install Git:
 ```bash
