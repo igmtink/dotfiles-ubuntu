@@ -67,3 +67,8 @@ chsh -s $(which fish)
 
 - **Alacritty:**
   - Copy my config file to your config folder
+
+- **Fish:**
+  - Install Fisher (Plugin Manager): [Fisher](https://github.com/jorgebucaran/fisher#installation)
+  - Install Tide (Prompt Style): [Tide](https://github.com/IlanCosman/tide?tab=readme-ov-file#installation)
+    - Copy my config file to your config folder
