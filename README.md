@@ -1,6 +1,6 @@
 # IGMT Workstation
 
-### Tools & Technologies
+## Tools & Technologies
 - **Git:** Version control system for code and configuration.
 - **Node.js:** JavaScript runtime environment.
 - **Curl:** Command-line tool for downloading and scripting.
