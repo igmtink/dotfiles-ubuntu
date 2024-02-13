@@ -1,6 +1,7 @@
 # IGMT Workstation
 
 ### Tools & Technologies
+
 - **Git:** Version control system for code and configuration.
 - **Node.js:** JavaScript runtime environment.
 - **Curl:** Command-line tool for downloading and scripting.
@@ -9,6 +10,7 @@
 - **Fish:** User-firendly and interactive shell with a modern command-line experience.
 
 ### Installation
+
 1. **Git:**
 
 Use the following command to install Git:
@@ -60,3 +62,8 @@ chsh -s $(which fish)
 ```
 
 - Logout and login for the change to take effect.
+
+### Customization
+
+- **Alacritty:**
+  - Copy my config file to your config folder
