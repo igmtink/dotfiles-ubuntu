@@ -66,9 +66,13 @@ chsh -s $(which fish)
 ### Customization
 
 - **Alacritty:**
-  - Copy my config file to your config folder
+  - Copy my alacritty config folder to your config folder
 
 - **Fish:**
   - Install Fisher (Plugin Manager): [Fisher](https://github.com/jorgebucaran/fisher#installation)
   - Install Tide (Prompt Style): [Tide](https://github.com/IlanCosman/tide?tab=readme-ov-file#installation)
-    - Copy my config file to your config folder
+  - Copy my fish config folder to your config folder
+  - Install Z (Directory Jumper): [Z](https://github.com/jethrokuan/z?tab=readme-ov-file#installation)
+  - Install Eza (LS Replacement) by running this command: ```cargo install eza```
+ 
+**Remember to restart your terminal (Alacritty) after making changes.**
